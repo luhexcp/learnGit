@@ -1,2 +1,1 @@
-hello git!
-hello you!
+hello git !
